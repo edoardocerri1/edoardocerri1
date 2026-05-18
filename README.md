@@ -2,14 +2,14 @@
 
 🎓 **MSc Data Science & Business Analytics** — Bologna Business School  
 💊 **Licensed Pharmacist** — Università di Bologna (106/110)  
-💼 **1 year @ Philip Morris International** — Quality Control & Data Analytics
+💼 **1 year @ Philip Morris International** — Quality Control & Data Analytics  
 📍 Bologna, Italy | Open to relocation (Milan & beyond)
 
 ---
 
 ## 🧠 About Me
 
-I'm a data scientist in training with a unique background combining pharmaceutical expertise and advanced analytics. I bridge the gap between scientific domain knowledge and data-driven decision making — with hands-on experience in KPI monitoring, BI reporting, and machine learning applied to real-world problems.
+I'm a data scientist in training with a unique background combining pharmaceutical expertise and advanced analytics. I bridge the gap between scientific domain knowledge and data-driven decision making with hands-on experience in KPI monitoring, BI reporting, and machine learning applied to real-world problems.
 
 ---
 
