@@ -28,15 +28,15 @@ I'm a data scientist in training with a unique background combining pharmaceutic
 
 ## 📂 Projects
 
-### 🔍 [Root Cause Analysis — Manufacturing Defects](https://github.com/edoardocerri1)
+### 🔍 [Root Cause Analysis — Manufacturing Defects]((https://github.com/edoardocerri1/root-cause-analysis-manufacturing))
 Predictive classification model (Python, XGBoost, SHAP) to identify defects in steel coils. Feature importance analysis identified furnace temperature as primary root cause.  
 `Python` `XGBoost` `SHAP` `Pandas` `Scikit-learn`
 
-### 👁️ [Computer Vision — Urban Waste Classification](https://github.com/edoardocerri1)
+### 👁️ [Computer Vision — Urban Waste Classification]((https://github.com/edoardocerri1/computer-vision-waste-classification))
 Developed and benchmarked CNNs (ResNet, Transfer Learning) for automated waste classification. Evaluated precision, recall and F1 for deployment readiness.  
 `Python` `CNN` `ResNet` `Transfer Learning` `Computer Vision`
 
-### 📊 [Customer Segmentation — Behavioural Analytics](https://github.com/edoardocerri1)
+### 📊 [Customer Segmentation — Behavioural Analytics]((https://github.com/edoardocerri1/customer-segmentation-analytics))
 Multivariate statistical analysis (PCA, K-Means) on structured datasets to segment behaviours and generate dashboard-ready insights for strategic decisions.  
 `SAS` `Python` `PCA` `K-Means` `Clustering`
 
